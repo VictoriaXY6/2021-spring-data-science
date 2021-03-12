@@ -1,5 +1,4 @@
 
-
 # SQL:  Structured Query Language  Exercise
 
 ### Getting Started
